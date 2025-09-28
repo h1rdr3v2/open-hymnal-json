@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdated": "2025-04-04",
+  "version": 3,
+  "lastUpdated": "2025-09-28",
   "hymns": [
     {
       "id": 1,
@@ -115,7 +115,7 @@
       "lyrics": [
         {
           "verse": 1,
-          "content": "On praise the Lord, the Lord For He is good endure\nHeaven light. His judgments just, His mercy Doth\nFrom Zion's hill praise ye The Lord of\nPraise in the heights and All ye stars of",
+          "content": "On praise the Lord, the Lord For He is good endure\nHis judgments just, His mercy Doth endure\nFrom Zion's hill praise ye The Lord of\nPraise in the heights and All ye stars of",
           "type": "verse"
         },
         {
@@ -142,7 +142,7 @@
         },
         {
           "verse": 4,
-          "content": "When I survey the wondrous Work at calvary,\nMy heart and soul as yet Can't understand:\nFor what is man that Thou Didst visit Him,\nDid glory crown, set o'er The works of Thy hands",
+          "content": "When I survey the wondrous Work at calvary,\nMy heart and soul as yet Can't understand:\nFor what is man that Thou Didst visit Him,\nDid glory crown, set o'er",
           "type": "verse"
         },
         {
@@ -256,7 +256,7 @@
         },
         {
           "verse": 2,
-          "content": "When the wicked gather, all set to undo me,\nLord my shield in Buckler by Thee they shall fall.",
+          "content": "When the wicked gather, all set to undo me,\nLord my shield 'n Buckler by Thee they shall fall.",
           "type": "verse"
         },
         {
@@ -956,11 +956,11 @@
       "lyrics": [
         {
           "verse": 1,
-          "content": "Jesus only is our Message,\nJesus all our theme shall be,\nWe will lift up Jesus ever,",
+          "content": "Jesus only is our Message,\nJesus all our theme shall be,\nWe will lift up Jesus ever, Jesus only will we see",
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         },
         {
@@ -969,7 +969,7 @@
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         },
         {
@@ -978,7 +978,7 @@
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         },
         {
@@ -987,7 +987,7 @@
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         },
         {
@@ -996,7 +996,7 @@
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         },
         {
@@ -1005,7 +1005,7 @@
           "type": "verse"
         },
         {
-          "content": "Jesus only will we see.\nJesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
+          "content": "Jesus only, Jesus ever,\nJesus all in all we sing;\nSaviour, Sanctifier, Healer,\nBaptizer and coming King.",
           "type": "chorus"
         }
       ],
@@ -1925,7 +1925,12 @@
       "category": "Hymns",
       "lyrics": [
         {
-          "content": "Be ye doers of the Word.\nBe ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
+          "verse": 1,
+          "content": "Out of james one twenty-two\nComes a call for juniors true.\nWho will live for christ the risen Lord:\nListen to this trumpet call\nRinging out to one and all.\n Be ye doers of the Word",
+          "type": "verse"
+        },
+        {
+          "content": "Be ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
           "type": "chorus"
         },
         {
@@ -1934,7 +1939,7 @@
           "type": "verse"
         },
         {
-          "content": "Be ye doers of the Word.\nBe ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
+          "content": "Be ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
           "type": "chorus"
         },
         {
@@ -1943,7 +1948,7 @@
           "type": "verse"
         },
         {
-          "content": "Be ye doers of the Word.\nBe ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
+          "content": "Be ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
           "type": "chorus"
         },
         {
@@ -1952,7 +1957,7 @@
           "type": "verse"
         },
         {
-          "content": "Be ye doers of the Word.\nBe ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
+          "content": "Be ye doers of the Word,\nBe ye doers of the Word,\nBe ye doers of the Word,\nAnd not hearers, not hearers only,\nBe ye doers of the Word",
           "type": "chorus"
         }
       ]
@@ -3088,7 +3093,7 @@
           "type": "verse"
         },
         {
-          "content":"nJesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
+          "content":"Jesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
           "type": "chorus"
         },
         {
@@ -3097,14 +3102,26 @@
           "type": "verse"
         },
         {
+          "content":"Jesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
+          "type": "chorus"
+        },
+        {
           "verse": 3,
           "content": "By my sins I have abandoned\nRight and claim to heaven above;\nWhere the saints rejoice forever\nIn a boundless sea of love.",
           "type": "verse"
         },
         {
+          "content":"Jesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
+          "type": "chorus"
+        },
+        {
           "verse": 4,
           "content": "See our Saviour, bleeding, dying;\nOn the Cross of Calvary;\nTo that cross my sins have nailed Him,\nYet He bled and died for me.",
           "type": "verse"
+        },
+        {
+          "content":"Jesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
+          "type": "chorus"
         }
       ]
     },
@@ -3324,8 +3341,12 @@
       "lyrics": [
         {
           "verse": 1,
-          "content": "My faith has found a resting place,\nNot in device nor creed;\nI trust the Ever Living One,\nHis wounds for me shall plead,\nI need no other argument,\nI need no other plea,\nIt is enough that Jesus died,\nAnd that He died for me.",
+          "content": "My faith has found a resting place,\nNot in device nor creed;\nI trust the Ever Living One,\nHis wounds for me shall plead,",
           "type": "verse"
+        },
+        {
+          "content": "I need no other argument,\nI need no other plea,\nIt is enough that Jesus died,\nAnd that He died for me.",
+          "type": "chorus"
         },
         {
           "verse": 2,
@@ -3333,14 +3354,26 @@
           "type": "verse"
         },
         {
+          "content": "I need no other argument,\nI need no other plea,\nIt is enough that Jesus died,\nAnd that He died for me.",
+          "type": "chorus"
+        },
+        {
           "verse": 3,
           "content": "My heart is leaning on the Word,\nThe written Word of God,\nSalvation by my Saviour's name,\nSalvation thro' His blood.",
           "type": "verse"
         },
         {
+          "content": "I need no other argument,\nI need no other plea,\nIt is enough that Jesus died,\nAnd that He died for me.",
+          "type": "chorus"
+        },
+        {
           "verse": 4,
           "content": "My great Physician heals the sick,\nThe lost He came to save;\nFor me His precious blood He shed,\nFor me His life He gave.",
           "type": "verse"
+        },
+        {
+          "content": "I need no other argument,\nI need no other plea,\nIt is enough that Jesus died,\nAnd that He died for me.",
+          "type": "chorus"
         }
       ]
     },
@@ -5607,7 +5640,7 @@
         },
         {
           "verse": 2,
-          "content": "When temptations almost win thee,\nAnd thy trusted watchers fly,\nLet this promise ring within thee:\nAI will guide thee with Mine eye.",
+          "content": "When temptations almost win thee,\nAnd thy trusted watchers fly,\nLet this promise ring within thee:\nI will guide thee with Mine eye.",
           "type": "verse"
         },
         {
@@ -5616,7 +5649,7 @@
         },
         {
           "verse": 3,
-          "content": "When thy secret hopes have perished\nIn the grave of years gone by,\nLet this promise still be cherished,\nAI will guide thee with Mine eye.",
+          "content": "When thy secret hopes have perished\nIn the grave of years gone by,\nLet this promise still be cherished,\nI will guide thee with Mine eye.",
           "type": "verse"
         },
         {
@@ -5625,7 +5658,7 @@
         },
         {
           "verse": 4,
-          "content": "When the shades of life are falling,\nAnd the hour has come to die,\nHear thy trusty Leader calling,\nAI will guide thee with Mine eye.",
+          "content": "When the shades of life are falling,\nAnd the hour has come to die,\nHear thy trusty Leader calling,\nI will guide thee with Mine eye.",
           "type": "verse"
         },
         {
@@ -9937,7 +9970,12 @@
       "category": "Hymns",
       "lyrics": [
         {
-          "content": "Just the same today, just the sameday,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in Hisword I see,\nThe God who doeth wonders is justthe same today.",
+          "verse": 1,
+          "content": "The God who led His people thro' the parted sea,\nAnd from Egyptian bondage, set\nHis children free,\nWho rain'd down bread from heaven all the pilgram way,\nIs the God to whom i pray.",
+          "type": "verse"
+        },
+        {
+          "content": "Just the same today, just the same today,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in His word I see,\nThe God who doeth wonders is just the same today.",
           "type": "chorus"
         },
         {
@@ -9946,7 +9984,7 @@
           "type": "verse"
         },
         {
-          "content": "Just the same today, just the sameday,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in Hisword I see,\nThe God who doeth wonders is justthe same today.",
+          "content": "Just the same today, just the same today,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in His word I see,\nThe God who doeth wonders is just the same today.",
           "type": "chorus"
         },
         {
@@ -9955,7 +9993,7 @@
           "type": "verse"
         },
         {
-          "content": "Just the same today, just the sameday,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in Hisword I see,\nThe God who doeth wonders is justthe same today.",
+          "content": "Just the same today, just the same today,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in His word I see,\nThe God who doeth wonders is just the same today.",
           "type": "chorus"
         },
         {
@@ -9964,7 +10002,7 @@
           "type": "verse"
         },
         {
-          "content": "Just the same today, just the sameday,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in Hisword I see,\nThe God who doeth wonders is justthe same today.",
+          "content": "Just the same today, just the same today,\nAs when He led His people thro'the sea;\nHis trustful child I'll be, for in His word I see,\nThe God who doeth wonders is just the same today.",
           "type": "chorus"
         }
       ]
