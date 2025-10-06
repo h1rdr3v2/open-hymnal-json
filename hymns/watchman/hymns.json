@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdated": "2025-09-28",
+  "version": 4,
+  "lastUpdated": "2025-10-06",
   "hymns": [
     {
       "id": 1,
@@ -2381,50 +2381,6 @@
       ]
     },
     {
-      "id": 66,
-      "number": "66",
-      "title": "Prepare to Meet Thy God",
-      "category": "Hymns",
-      "lyrics": [
-        {
-          "verse": 1,
-          "content": "Careless soul, why will you linger,\nWand'ring from the fold of God?\nHear you not the invitation?\nO prepare to meet thy God.",
-          "type": "verse"
-        },
-        {
-          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
-          "type": "chorus"
-        },
-        {
-          "verse": 2,
-          "content": "Why so tho'tless are you standing\nWhile the fleeting years go by,\nAnd your life is spent in folly?\nO prepare to meet thy God.",
-          "type": "verse"
-        },
-        {
-          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
-          "type": "chorus"
-        },
-        {
-          "verse": 3,
-          "content": "Hear you not the earnest pleadings\nOf your friends that wish you well?\nAnd perhaps before tomorrow\nYou'll be called to meet your God.",
-          "type": "verse"
-        },
-        {
-          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
-          "type": "chorus"
-        },
-        {
-          "verse": 4,
-          "content": "If you spurn the invitation\nTill the Spirit shall depart,\nThen you'll see your sad condition,\nUnprepared to meet thy God.",
-          "type": "verse"
-        },
-        {
-          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
-          "type": "chorus"
-        }
-      ]
-    },
-    {
       "id": 60,
       "number": "60",
       "title": "While We Pray, and While We Plead",
@@ -2628,6 +2584,50 @@
           "verse": 4,
           "content": "Now admit the heav'nly Guest,\nLet Him in;\nHe will make for you a feast:\nLet Him in;\nHe will speak your sins forgiv'n.\nAnd when earth-ties all are riv'n,\nHe will take you home to heav'n:\nLet Him in.",
           "type": "verse"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "number": "66",
+      "title": "Prepare to Meet Thy God",
+      "category": "Hymns",
+      "lyrics": [
+        {
+          "verse": 1,
+          "content": "Careless soul, why will you linger,\nWand'ring from the fold of God?\nHear you not the invitation?\nO prepare to meet thy God.",
+          "type": "verse"
+        },
+        {
+          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
+          "type": "chorus"
+        },
+        {
+          "verse": 2,
+          "content": "Why so tho'tless are you standing\nWhile the fleeting years go by,\nAnd your life is spent in folly?\nO prepare to meet thy God.",
+          "type": "verse"
+        },
+        {
+          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
+          "type": "chorus"
+        },
+        {
+          "verse": 3,
+          "content": "Hear you not the earnest pleadings\nOf your friends that wish you well?\nAnd perhaps before tomorrow\nYou'll be called to meet your God.",
+          "type": "verse"
+        },
+        {
+          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
+          "type": "chorus"
+        },
+        {
+          "verse": 4,
+          "content": "If you spurn the invitation\nTill the Spirit shall depart,\nThen you'll see your sad condition,\nUnprepared to meet thy God.",
+          "type": "verse"
+        },
+        {
+          "content": "Careless soul, O heed the warning,\nFor your life will soon be gone,\nO how sad to face the judgment\nUnprepared to meet thy God.",
+          "type": "chorus"
         }
       ]
     },
